@@ -67,3 +67,4 @@ This project is licensed under the MIT License.
 
 For inquiries, feedback, or collaborations, reach out at kritikrishna000@gmail.com
 
+Live project: https://kriti-maxoutfitness.netlify.app/
